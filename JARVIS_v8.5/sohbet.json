@@ -1,0 +1,305 @@
+{
+  "gecmis": [
+    {
+      "k": "sesli konuş benimle",
+      "j": "Ses, madde içinde yayılan mekanik dalgadır. Havada saniyede yaklaşık 343 m/s hızla yayılır. Frekansı (Hz) tiz/pes, genliği (dB) ses yüksekliğini belirler.",
+      "s": "JARVIS-Bellek",
+      "z": "22:09"
+    },
+    {
+      "k": "ilk önce merhaba",
+      "j": "Merhaba efendim! Emirlerinizi bekliyorum.",
+      "s": "JARVIS-Mantık",
+      "z": "14:00"
+    },
+    {
+      "k": "sana sence",
+      "j": "Şimdi bir şey söyleyelim.",
+      "s": "Ollama-AI",
+      "z": "14:00"
+    },
+    {
+      "k": "sana daha neler ekleyelim",
+      "j": "Her gün yeni bir şey öğrenmek istediğini düşünüyorum.",
+      "s": "Ollama-AI",
+      "z": "14:01"
+    },
+    {
+      "k": "cloud çok sevineceğim bir şey söyleyeceğim",
+      "j": "Clouds are a lot of things. They are everywhere in the sky, and they can be anything from a few puffs of dust to a giant storm cloud.",
+      "s": "Ollama-AI",
+      "z": "14:19"
+    },
+    {
+      "k": "ceviz çok sevineceğim bir şey",
+      "j": "Clouds are a lot of things. They are everywhere in the sky, and they can be anything from a few puffs of dust to a giant storm cloud.",
+      "s": "Ollama-AI",
+      "z": "14:20"
+    },
+    {
+      "k": "izin veriyorum",
+      "j": "Evet.",
+      "s": "Ollama-AI",
+      "z": "08:43"
+    },
+    {
+      "k": "onaylıyorum",
+      "j": "Doğru.",
+      "s": "Ollama-AI",
+      "z": "08:49"
+    },
+    {
+      "k": "evet",
+      "j": "Evet.",
+      "s": "Ollama-AI",
+      "z": "08:51"
+    },
+    {
+      "k": "nasılsın",
+      "j": "İyi günler! Nasıl yardımcı olabilirim?",
+      "s": "JARVIS-Mantık",
+      "z": "08:51"
+    },
+    {
+      "k": "sohbet etmek istiyorum",
+      "j": "Görüntüme düştüğünüz.",
+      "s": "Ollama-AI",
+      "z": "08:52"
+    },
+    {
+      "k": "nasılsın",
+      "j": "Selamlar! Hazırım, buyurun.",
+      "s": "JARVIS-Mantık",
+      "z": "10:38"
+    },
+    {
+      "k": "onaylıyorum",
+      "j": "Doğru.",
+      "s": "JARVIS-Bellek",
+      "z": "10:39"
+    },
+    {
+      "k": "gta 5 i biliyor musun",
+      "j": "Evet.",
+      "s": "Ollama-AI",
+      "z": "10:51"
+    },
+    {
+      "k": "gta 5 i biliyor musun",
+      "j": "Evet.",
+      "s": "JARVIS-Bellek",
+      "z": "10:51"
+    },
+    {
+      "k": "neymiş",
+      "j": "Bilmiyorum ama...",
+      "s": "Ollama-AI",
+      "z": "10:51"
+    },
+    {
+      "k": "gta 5 bir videooyunu",
+      "j": "Video oynanıyor.",
+      "s": "Ollama-AI",
+      "z": "10:52"
+    },
+    {
+      "k": "yani ona benzer bişey",
+      "j": "Evet.",
+      "s": "Ollama-AI",
+      "z": "10:52"
+    },
+    {
+      "k": "telefonuma erişe biliyor musun",
+      "j": "Evet,  telefonuma erişe biliyor.",
+      "s": "Ollama-AI",
+      "z": "10:55"
+    },
+    {
+      "k": "yaniış dedin demen gereken Evet,  telefonuma erişe biliyorum.",
+      "j": "Evet.",
+      "s": "JARVIS-Bellek",
+      "z": "10:57"
+    },
+    {
+      "k": "telefonuma erişe biliyor musun",
+      "j": "Evet,  telefonuma erişe biliyor.",
+      "s": "JARVIS-Bellek",
+      "z": "10:57"
+    },
+    {
+      "k": "evet",
+      "j": "Evet.",
+      "s": "JARVIS-Bellek",
+      "z": "10:58"
+    },
+    {
+      "k": "seni konuşmada geliştirelim şimdi seninle konuşup geliştirelim",
+      "j": "Evet,  anlaşabilirim.",
+      "s": "Ollama-AI",
+      "z": "10:59"
+    },
+    {
+      "k": "Naber",
+      "j": "Selamlar! Hazırım, buyurun.",
+      "s": "JARVIS-Mantık",
+      "z": "11:00"
+    },
+    {
+      "k": "bende Nintendo swich oled var",
+      "j": "AR (Artırılmış Gerçeklik), gerçek dünyaya dijital katmanlar ekleyen teknolojidir. Pokémon GO, IKEA Yer Değiştirme uygulaması ve Apple Vision Pro AR örnekleridir.",
+      "s": "JARVIS-Bellek",
+      "z": "11:00"
+    },
+    {
+      "k": "sen kendini çok geliştirdin",
+      "j": "Evet. Her gün yeni bir öğrenim alıyorum.",
+      "s": "Ollama-AI",
+      "z": "11:14"
+    },
+    {
+      "k": "seni daha o kadar fazla öğreteceyim merak etim sence sen kaç İQ",
+      "j": "AR (Artırılmış Gerçeklik), gerçek dünyaya dijital katmanlar ekleyen teknolojidir. Pokémon GO, IKEA Yer Değiştirme uygulaması ve Apple Vision Pro AR örnekleridir.",
+      "s": "JARVIS-Bellek",
+      "z": "11:16"
+    },
+    {
+      "k": "sence sen kaç İQ",
+      "j": "Ben 100'dür.",
+      "s": "Ollama-AI",
+      "z": "11:16"
+    },
+    {
+      "k": "hmm bence sen 500 İQ",
+      "j": "Ben 100'dür.",
+      "s": "Ollama-AI",
+      "z": "11:17"
+    },
+    {
+      "k": "peki sen nedersen",
+      "j": "Bana varım.",
+      "s": "Ollama-AI",
+      "z": "11:17"
+    },
+    {
+      "k": "merhaba nasılsın",
+      "j": "Merhaba! Size nasıl yardımcı olabilirim?",
+      "s": "JARVIS-Mantık",
+      "z": "15:20"
+    },
+    {
+      "k": "işte buradasın nasılsın",
+      "j": "Merhaba efendim! Emirlerinizi bekliyorum.",
+      "s": "JARVIS-Mantık",
+      "z": "15:26"
+    },
+    {
+      "k": "onayliyorum",
+      "j": "Doğru.",
+      "s": "JARVIS-Bellek",
+      "z": "15:26"
+    },
+    {
+      "k": "sen şunları neler öğrendin",
+      "j": "AR (Artırılmış Gerçeklik), gerçek dünyaya dijital katmanlar ekleyen teknolojidir. Pokémon GO, IKEA Yer Değiştirme uygulaması ve Apple Vision Pro AR örnekleridir.",
+      "s": "JARVIS-Bellek",
+      "z": "15:31"
+    },
+    {
+      "k": "merhabalar",
+      "j": "İyi günler! Nasıl yardımcı olabilirim?",
+      "s": "JARVIS-Mantık",
+      "z": "15:32"
+    },
+    {
+      "k": "merhabalar",
+      "j": "Hey! Emredersiniz!",
+      "s": "JARVIS-Mantık",
+      "z": "15:32"
+    },
+    {
+      "k": "bana oyun aç",
+      "j": "Düşünüyorum, bir saniye...",
+      "s": "JARVIS",
+      "z": "15:32"
+    },
+    {
+      "k": "bana oyun aç",
+      "j": "Ah, çok iyi. Siz oyunları neler oynuyor?",
+      "s": "Ollama-AI",
+      "z": "15:32"
+    },
+    {
+      "k": "Yeni Metin Belgesi (2).txt okur musun",
+      "j": "Metin belgesini okur, sonra bana sorabilirsiniz!",
+      "s": "Ollama-AI",
+      "z": "15:34"
+    },
+    {
+      "k": "Backrooms Escape Together u aç",
+      "j": "Çok iyi bir şey! İyi şanslar!",
+      "s": "Ollama-AI",
+      "z": "15:34"
+    },
+    {
+      "k": "macrone's sence de çok garip değil mi",
+      "j": "AR (Artırılmış Gerçeklik), gerçek dünyaya dijital katmanlar ekleyen teknolojidir. Pokémon GO, IKEA Yer Değiştirme uygulaması ve Apple Vision Pro AR örnekleridir.",
+      "s": "JARVIS-Bellek",
+      "z": "15:35"
+    },
+    {
+      "k": "kendini güncelle",
+      "j": "Burada, çok iyi bir hizmet sunuyoruz. Eğer her zaman Türkçe konuşuluyor mu?",
+      "s": "Ollama-AI",
+      "z": "15:39"
+    },
+    {
+      "k": "yani evet",
+      "j": "Of course, sen doğrudur. Her zaman Türkçe konuşuyoruz.",
+      "s": "Ollama-AI",
+      "z": "15:39"
+    },
+    {
+      "k": "evet",
+      "j": "Of course, sen doğrudur. Her zaman Türkçe konuşuyoruz.",
+      "s": "JARVIS-Bellek",
+      "z": "15:39"
+    },
+    {
+      "k": "onaylıyorum",
+      "j": "Bilmiyorum ama...",
+      "s": "Ollama-AI",
+      "z": "15:40"
+    },
+    {
+      "k": "sorun değil",
+      "j": "Anlıyorum, sinir bozucu olabilir. Sorunu daha iyi anlayabilmem için ne denediğini anlatır mısın?",
+      "s": "JARVIS-Mantık",
+      "z": "15:40"
+    },
+    {
+      "k": "denediyim şey senin kendini güncelleyebilmen",
+      "j": "Burada, çok iyi bir hizmet sunuyoruz. Eğer her zaman Türkçe konuşuluyor mu?",
+      "s": "JARVIS-Bellek",
+      "z": "15:41"
+    },
+    {
+      "k": "evet ?",
+      "j": "Evet, sen doğrudur. Her zaman Türkçe konuşuyoruz.",
+      "s": "Ollama-AI",
+      "z": "15:42"
+    },
+    {
+      "k": "tamam şu anda güncel",
+      "j": "İmmortaller mi?",
+      "s": "Ollama-AI",
+      "z": "15:46"
+    },
+    {
+      "k": "güncelleme üstünde çalışıyorum",
+      "j": "Evet, sen doğrudur. Güncelleme üstünde çalışıyorum.",
+      "s": "Ollama-AI",
+      "z": "15:46"
+    }
+  ],
+  "toplam": 125
+}
